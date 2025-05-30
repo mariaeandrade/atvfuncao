@@ -3,3 +3,5 @@ function inverteString(Str) {
 }
 
 console.log(inverteString("ogaihT"));
+console.log(inverteString("tpircSavaJ"));
+console.log(inverteString(" odraudE"));
